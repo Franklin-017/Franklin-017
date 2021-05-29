@@ -17,6 +17,9 @@
 <br />
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-017)](https://github.com/anuraghazra/github-readme-stats)
+<br /><br />
+
 [<img align="left" alt="franklinandrus.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="franklin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="franklin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -30,7 +33,6 @@
   ![Franklins's GitHub stats](https://github-stats-red.vercel.app/api?username=franklin-017&show_icons=true&theme=radical)
 
 </details>
-
 
 [website]: https://franklinandrus.netlify.app
 [twitter]: https://twitter.com/Franklin_017
