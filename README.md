@@ -17,7 +17,7 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-017&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-017&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 <br /><br />
 
 [<img align="left" alt="franklinandrus.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -30,7 +30,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![Franklins's GitHub stats](https://github-stats-red.vercel.app/api?username=franklin-017&show_icons=true&theme=radical)
+  ![Franklins's GitHub stats](https://github-stats-red.vercel.app/api?username=franklin-017&show_icons=true&theme=midnight-purple)
 
 </details>
 
