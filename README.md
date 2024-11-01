@@ -2,8 +2,6 @@
 
 ## I'm a Full Stack Developer!!
 
-- 🌱 I’m currently learning React
-- 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### **Languages and Tools:**
 
